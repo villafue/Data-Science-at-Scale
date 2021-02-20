@@ -1,0 +1,3 @@
+Manipulating data
+
+In this chapter, you'll learn about the pyspark.sql module, which provides optimized data queries to your Spark session.
